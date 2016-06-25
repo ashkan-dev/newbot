@@ -264,35 +264,34 @@ function create_config( )
         "pmrsn"
         
     },
-    sudo_users = {207418094},--Sudo users
+    sudo_users = {198475619},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎 ElementBot 😎
+    about_text = [[😎 WorldBot 😎
 
-💠An advence Telegram Bot Based On Lua And Dev By Allwen💠
+💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
 
 ❗️Sudo Users
-@Allwen [Founder,Developer,Manager]
+@x_KING_TELEGRAM_x [Founder,Developer,Manager]
 
 Special Thanks ⬇️
 AmirHo3inf
 And All My Friends :D
 
-Copuright © Allwen ]],
+Copyright © Ashi ]],
     help_text_realm = [[
-ElementBot Realm Helps 🔻
+World Realm Helps 🔻
 〰〰〰〰〰〰〰〰〰〰〰
 !broadcast [Message]
 !bc (groupid) (text)
 〰〰〰〰〰〰〰〰〰〰〰
 And Other.. 📍]],
 	help_text_super =[[
-SuperGroup Helps List For ElementBot📍
+SuperGroup Helps List For World📍
 〰〰〰〰〰〰〰〰〰〰
 /Help> -> Show SuperGroups Help 📍
 /HelpP -> Show Plugins Help
 〰〰〰〰〰〰〰〰〰〰
-@ElementTG 📌
-@ElementTeam 📌
+@World_Tm 📌📌
 ]],
   }
   serialize_to_file(config, './data/config.lua')
