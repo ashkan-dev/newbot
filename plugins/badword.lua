@@ -15,7 +15,7 @@ local function list_variablesbad(msg)
 
   if hash then
     local names = redis:hkeys(hash)
-    local text = 'List Badwords For ElementBot 🔻:\n\n'
+    local text = 'List Badwords For WorldBot 🔻:\n\n'
     for i=1, #names do
       text = text..'> '..names[i]..'\n'
     end
