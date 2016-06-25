@@ -21,7 +21,7 @@ local function run (msg, matches)
     not conflict with the First or Second Laws. ]]--
     return "خودمو چرا کیک کنم 😐"
  -- elseif is_sudo(msg) then
-   -- return "نمیخوام آرینو کیک کنم 😢"
+   -- return "نمیخوام اشیو کیک کنم 😢"
   else
     kick_user(user, chat)
   end
