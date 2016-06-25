@@ -1,10 +1,10 @@
-local allwen = 207418094
+local ashi = 198475619
 local function action_by_reply(extra, success, result)
   local hash = 'rank:variables'
   local text = ''
     local value = redis:hget(hash, result.from.id)
      if not value then
-        if result.from.id == tonumber(allwen) then
+        if result.from.id == tonumber(ashi) then
            text = text..'این مدیر کل رباته  \n\n'
          elseif is_admin2(result.from.id) then
            text = text..'این ادمین رباته \n\n'
