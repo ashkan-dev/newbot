@@ -85,9 +85,9 @@ function run(msg, matches)
 end
 
 return {
-  patterns = {"
-^[Aa]zan (.*)$",
-"^[!/#](azan)$",
+  patterns = {
+"^[Aa]zan (.*)$",
+"^(azan)$",
 "^اذان (.*)$"
 }, 
   run = run 
