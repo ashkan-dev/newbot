@@ -264,14 +264,14 @@ function create_config( )
         "pmrsn"
         
     },
-    sudo_users = {198475619},--Sudo users
+    sudo_users = {260871317},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎 WorldBot 😎
 
 💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
 
 ❗️Sudo Users
-@x_KING_TELEGRAM_x [Founder,Developer,Manager]
+@My_Wife_Is_Dorina [Founder,Developer,Manager]
 
 Special Thanks ⬇️
 AmirHo3inf
