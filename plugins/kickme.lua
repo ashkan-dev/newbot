@@ -33,7 +33,7 @@ return {
     "!kickme Kicks The Sender"
   },
   patterns = {
-    "^[!/#]kickme$"
+    "^[!/#]([Kk]ickme)$"
   },
   run = run
 }
