@@ -1,4 +1,4 @@
-local ashi = 198475619
+local ashi = 260871317
 local function action_by_reply(extra, success, result)
   local hash = 'rank:variables'
   local text = ''
