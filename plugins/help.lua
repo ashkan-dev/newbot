@@ -7,7 +7,7 @@ end
 end
 return {
 patterns = {
-"^[help>]$",
+"^([Hh]elp)$",
 
 },
 run = run
