@@ -266,12 +266,12 @@ function create_config( )
     },
     sudo_users = {260871317},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎 WorldBot 😎
+    about_text = [[😎 megaBot 😎
 
 💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
 
 ❗️Sudo Users
-@My_Wife_Is_Dorina [Founder,Developer,Manager]
+@rahbar_kaboos [Founder,Developer,Manager]
 
 Special Thanks ⬇️
 AmirHo3inf
