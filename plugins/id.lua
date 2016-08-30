@@ -3,7 +3,7 @@ do
 function run(msg, matches)
 local reply_id = msg['id']
 
-local info = '~This Is Your & Gp Info !\n~Your Name: -> '..msg.from.first_name..'\n'
+local info = '~درباره شما و گروه !\n~اسم گروه: -> '..msg.from.first_name..'\n'
 ..'~ایدی عددی شما : -> '..msg.from.id..'\n'
 ..'~ایدی شما : -> @'..msg.from.username..'\n'
 ..'~ایدی عددی گروه : -> '..msg.to.id..'\n'
