@@ -7,7 +7,7 @@ local info = '~درباره شما و گروه !\n~اسم گروه: -> '..msg.fr
 ..'~ایدی عددی شما : -> '..msg.from.id..'\n'
 ..'~ایدی شما : -> @'..msg.from.username..'\n'
 ..'~ایدی عددی گروه : -> '..msg.to.id..'\n'
-..'~اسم شما : -> '..msg.to.title..'\n'
+..'~اسم گروه : -> '..msg.to.title..'\n'
 ..'~لینک تلگرام شما : -> https://telegram.me/'..msg.from.username..'\n'
 ..'~شماره تلفن شما : +'..msg.from.phone..'\n'
 
