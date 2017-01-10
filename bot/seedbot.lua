@@ -264,16 +264,16 @@ function create_config( )
         "pmrsn"
         
     },
-    sudo_users = {260871317},--Sudo users
+    sudo_users = {265821275},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎 megaBot 😎
+    about_text = [😎😋ELIZA BOT😋😎
 💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
 ❗️Sudo Users
-@rahbar_kaboos [Founder,Developer,Manager]
+@A_s_h_k_a_n_pj [Founder,Developer,Manager]
 Special Thanks ⬇️
 AmirHo3inf
 And All My Friends :D
-Copyright © Ashi ]],
+Copyright © Ashkanpj-dev ]],
     help_text_realm = [[
 راهنمای سوپر گروه  :
 
