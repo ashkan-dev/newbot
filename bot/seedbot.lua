@@ -266,14 +266,14 @@ function create_config( )
     },
     sudo_users = {265821275},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [😎😋ELIZA BOT😋😎
-💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
-❗️Sudo Users
+    about_text = [ ...::::ELIZA BOT::::...
+-advence Telegram Bot Based On Lua And Dev By Ashi
+-❗️Sudo Users
 @A_s_h_k_a_n_pj [Founder,Developer,Manager]
-Special Thanks ⬇️
+-Special Thanks ⬇️
 AmirHo3inf
-And All My Friends :D
-Copyright © Ashkanpj-dev ]],
+-And All My Friends :D
+-Copyright © Ashkanpj-dev ]],
     help_text_realm = [[
 راهنمای سوپر گروه  :
 
