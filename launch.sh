@@ -44,4 +44,4 @@ else
   fi
   rm -r ../.telegram-cli/state #Prevent tg from crash
   ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/seedbot.lua -l 1 -E $@
-fi 
+  fi 
