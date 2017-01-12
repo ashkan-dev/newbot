@@ -208,7 +208,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 
 	if matches[1] == 'help' and msg.to.type == 'user' or matches[1] == 'pmhelp' and is_admin1(msg) and msg.to.type ~= 'user' then
       	savelog(msg.to.id, name_log.." ["..msg.from.id.."] used pm help")
-		text = "Welcome to World!\n\nTo get a list of WorldTg groups use /chats or /chatlist for a document list of chats.\n\nTo get a new group, contact a support group:\n\nFor English support, use: /join English support\n\nFor Persian support, use: /join Persian support\n\nFor more information, check out our channel:\n\n@Worldtg\n\nCreated By Ashi!"
+		text = "Welcome to eliza!\n\nTo get a list of elizabot  groups use /chats or /chatlist for a document list of chats.\n\nTo get a new group, contact a support group:\n\nFor English support, use: /join English support\n\nFor Persian support, use: /join Persian support\n\nFor more information, check out our channel:\n\n@tele_eliza\n\nCreated By Ashkan!"
      	return text
     end
 
